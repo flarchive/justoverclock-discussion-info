@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of justoverclock/discussion-info.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/discussion-info) or the [upstream repository](https://github.com/justoverclockl/discussions-info).
 
-**0** versions archived · Latest: [`0.1.5`](https://github.com/flarchive/justoverclock-discussion-info/tree/archive/v0.1.5) · License: `MIT` · Flarum: `^1.0.0`
+**6** versions archived · Latest: [`0.1.5`](https://github.com/flarchive/justoverclock-discussion-info/tree/archive/v0.1.5) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-09-08 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-discussion-info/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-09-08 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-discussion-info/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-09-12 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-discussion-info/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-09-28 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-discussion-info/tree/archive/v0.1.3) |
+| `0.1.4` | 2022-09-28 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-discussion-info/tree/archive/v0.1.4) |
+| `0.1.5` | 2022-09-28 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-discussion-info/tree/archive/v0.1.5) |
 
 Catalog entry: [packages/justoverclock-discussion-info.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-discussion-info.json)
 
